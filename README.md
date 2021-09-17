@@ -11,7 +11,7 @@ This example uses a couple of exchanges set up and maintained by @robsjr and @gg
 
 ## YouTube Video Tutorial
 
-I have made a video turtorial over on the [DevBootstrap YouTube channel](https://www.youtube.com/watch?v=YsBe5fHHYLs). Enjoy and don't forget to Like!
+ You can refer this video made by this gentleman on his channe, also provided the link [DevBootstrap YouTube channel](https://www.youtube.com/watch?v=YsBe5fHHYLs). Enjoy and don't forget to Like!
 
 ## Usage
 
