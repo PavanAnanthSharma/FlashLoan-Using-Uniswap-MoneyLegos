@@ -15,7 +15,7 @@ Below are high level instructions to try out this example using the **Kovan Test
 
 ### Setup
 
-Rename [env](./env) to '.env' and complete the missing values for your project.
+Rename env to '.env' and complete the missing values for your project.
 
 Connect your truffle console to the Kovan network like so:
 
