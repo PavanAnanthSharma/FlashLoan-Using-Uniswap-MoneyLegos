@@ -9,9 +9,6 @@ This example uses a couple of exchanges set up and maintained by @robsjr and @gg
 * [Uniswap Exchange A](https://kovan-uniswap.netlify.app/swap)
 * [Uniswap Exchange A](https://kovan-uniswap2.netlify.app/swap)
 
-## YouTube Video Tutorial
-
-I have made a video turtorial over on the [DevBootstrap YouTube channel](https://www.youtube.com/watch?v=YsBe5fHHYLs). Enjoy and don't forget to Like!
 
 ## Usage
 
