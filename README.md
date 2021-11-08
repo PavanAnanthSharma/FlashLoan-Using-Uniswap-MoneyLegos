@@ -1,4 +1,4 @@
-# Flashloan Example using Money Legos
+## Flashloan Example using Money Legos
 
 In this example we will use the [Money Legos Library](https://money-legos.studydefi.com/#/) to create a flashloan and arbitrage accross several DEXs.
 
