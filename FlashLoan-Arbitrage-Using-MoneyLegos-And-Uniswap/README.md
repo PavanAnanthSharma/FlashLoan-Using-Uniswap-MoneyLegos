@@ -10,7 +10,7 @@ This example uses a couple of exchanges set up and maintained by @robsjr and @gg
 * [Uniswap Exchange A](https://kovan-uniswap2.netlify.app/swap)
 
  
-## Usage
+## Usage 
 
 Below are high level instructions to try out this example using the **Kovan Testnet**.
 
