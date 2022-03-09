@@ -19,6 +19,8 @@ This example uses a couple of exchanges set up and maintained by @robsjr and @gg
 
 Below are high level instructions to try out this example using the **Kovan Testnet**.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Setup
 
 Rename env to '.env' and complete the missing values for your project.
