@@ -31,6 +31,8 @@ Connect your truffle console to the Kovan network like so:
 truffle console --network kovan
 ```
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Compile / Deploy
 
 Compile and deploy the contract to the Kovan network. From within your truffle console instance do the following:
