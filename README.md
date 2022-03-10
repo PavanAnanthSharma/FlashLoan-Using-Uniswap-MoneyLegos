@@ -57,6 +57,8 @@ f.addressesProvider()
 f.initateFlashLoan(assetToFlashLoan, amountToLoan)
 ```
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Interact via Typescript app
 
 There is a Typescript file that runs the same above arbitrage. This can be run as folllows.
